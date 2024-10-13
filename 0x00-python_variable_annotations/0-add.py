@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-	Keyword arguments: function that sums up two float numbers
-	argument -- variable a and b
-	Return: sum of numbers as float
+Keyword arguments: function that sums up two float numbers
+argument -- variable a and b
+Return: sum of numbers as float
 """
 
 
