@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
-"""
-Keyword arguments: function that sums up two float numbers
-argument -- variable a and b
-Return: sum of numbers as float
-"""
+''' Function that adds two float val and ret '''
 
 
 def add(a: float, b: float) -> float:
+    ''' Function that adds two float val and ret '''
     return a + b
